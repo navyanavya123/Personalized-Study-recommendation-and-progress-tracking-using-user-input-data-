@@ -1,0 +1,16 @@
+user_id,subject,study_hours,book_names,youtube_links,study_material_link
+1,Math,5,Algebra Basics,https://www.youtube.com/watch?v=math_video_1,https://example.com/math_resources
+1,Science,3,Physics Fundamentals,https://www.youtube.com/watch?v=science_video_1,https://example.com/science_resources
+1,History,2,World History,https://www.youtube.com/watch?v=history_video_1,https://example.com/history_resources
+1,English,4,English Grammar Basics,https://www.youtube.com/watch?v=english_video_1,https://example.com/english_resources
+1,Hindi,2,Hindi Literature Intro,https://www.youtube.com/watch?v=hindi_video_1,https://example.com/hindi_resources
+2,Math,4,Calculus Introduction,https://www.youtube.com/watch?v=math_video_2,https://example.com/calculus_resources
+2,Science,5,Biology Basics,https://www.youtube.com/watch?v=science_video_2,https://example.com/biology_resources
+2,History,1,Modern History,https://www.youtube.com/watch?v=history_video_2,https://example.com/modern_history_resources
+2,Tamil,3,Tamil Poetry Analysis,https://www.youtube.com/watch?v=tamil_video_1,https://example.com/tamil_resources
+3,Math,6,Geometry Concepts,https://www.youtube.com/watch?v=math_video_3,https://example.com/geometry_resources
+3,Science,4,Chemistry 101,https://www.youtube.com/watch?v=science_video_3,https://example.com/chemistry_resources
+3,History,3,Ancient Civilizations,https://www.youtube.com/watch?v=history_video_3,https://example.com/ancient_history_resources
+3,English,5,Shakespeare's Works,https://www.youtube.com/watch?v=english_video_2,https://example.com/shakespeare_resources
+3,Hindi,2,Hindi Grammar Essentials,https://www.youtube.com/watch?v=hindi_video_2,https://example.com/hindi_grammar_resources
+4,Tamil,4,Tamil Novels Overview,https://www.youtube.com/watch?v=tamil_video_2,https://example.com/tamil_novels_resources
